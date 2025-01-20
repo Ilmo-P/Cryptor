@@ -21,7 +21,7 @@ Make sure you have the latest version of pip installed. The Python version used 
 
 `git clone https://github.com/Ilmo-P/Cryptor.git`
 
-2. Using Pip install the requirements:
+2. Using pip install the requirements:
 
 `pip install -r requirements.txt`
 
